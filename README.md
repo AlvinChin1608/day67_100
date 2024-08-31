@@ -11,13 +11,10 @@ This Flask web application serves as a blog platform, allowing users to create, 
   
 - __Pagination:__ Added pagination to handle a large number of blog posts, improving user experience for navigating through entries.
 - __CRUD Functionalities:__
-    - Create, Edit, and Delete Functionalities
+    - Create, Read, Update, and Delete Functionalities
       ### Create
     ![](https://github.com/AlvinChin1608/day67_100/blob/main/demo-gif/create-ezgif.com-video-to-gif-converter.gif)
     - __Create:__ Implemented a form for users to add new blog posts with validation and saving to the database.
-
-      ### Edit
-      ![](https://github.com/AlvinChin1608/day67_100/blob/main/demo-gif/Edit-ezgif.com-video-to-gif-converter.gif)
     - __Edit:__ Developed functionality to modify existing blog posts, allowing users to update post details.
       
       ### Delete
